@@ -3,18 +3,18 @@ body {
     background-image: url("https://wallpaper.dog/large/10852409.jpg");
 }
 .icon {
-    width: 75px;
-    height: 74px;
+    width: 75rem;
+    height: 74rem;
 }
 
 .navbar{
-    width: 1200px;
-    height: 75px;
+    width: 1200rem;
+    height: 75rem;
     margin: auto;
 }
 menu{
-width: 400px;
-height: 70px;
+width: 400rem;
+height: 70rem;
 float: left;
 }
 ul{
@@ -22,13 +22,13 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -77px;
+    margin-top: -77rem;
 }
 ul li {
     list-style: none;
-    margin-left: 81px;
-    margin-top: -74px;
-    font-size: 25px;
+    margin-left: 81rem;
+    margin-top: -74rem;
+    font-size: 25rem;
 }
 ul  li a{
     color: rgb(228, 220, 220);
@@ -42,11 +42,11 @@ ul li a:hover{
 
 
 .content{
-    width: 447px;
+    width: 447rem;
     height: auto;
-    margin-left: 76px;
-    margin-top: 50px;
-    font-size: 90px;
+    margin-left: 76rem;
+    margin-top: 50rem;
+    font-size: 90rem;
 color: white;
 -webkit-text-stroke-color: black;
 -webkit-text-stroke-width: 1px;
@@ -54,15 +54,10 @@ color: white;
 .content:hover{
     color: orangered;
 }
-iframe {
-    width: 562px;
-    height: 354px;
-    margin-left: 600px;
-    margin-top: -308px;
-}
+
 
 .container1 {
-    margin-left: 659px;
-    margin-top: -438px;
-    width: 528px;
+    margin-left: 659rem;
+    margin-top: -438rem;
+    width: 528rem;
 }
