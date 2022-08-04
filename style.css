@@ -1,6 +1,7 @@
 body {
 
     background-image: url("https://wallpaper.dog/large/10852409.jpg");
+    display: cover ;
 }
 .icon {
     width: 75rem;
