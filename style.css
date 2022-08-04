@@ -9,18 +9,18 @@ body {
     display: cover ;
 }
 .icon {
-    width: 75rem;
-    height: 74rem;
+    width: 75px;
+    height: 74px;
 }
 
 .navbar{
-    width: 1200rem;
-    height: 75rem;
+    width: 1200px;
+    height: 75px;
     margin: auto;
 }
 menu{
-width: 400rem;
-height: 70rem;
+width: 400px;
+height: 70px;
 float: left;
 }
 ul{
@@ -28,13 +28,13 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -77rem;
+    margin-top: -77px;
 }
 ul li {
     list-style: none;
-    margin-left: 81rem;
-    margin-top: -74rem;
-    font-size: 25rem;
+    margin-left: 81px;
+    margin-top: -74px;
+    font-size: 25px;
 }
 ul  li a{
     color: rgb(228, 220, 220);
@@ -48,11 +48,11 @@ ul li a:hover{
 
 
 .content{
-    width: 447rem;
+    width: 447px;
     height: auto;
-    margin-left: 76rem;
-    margin-top: 50rem;
-    font-size: 90rem;
+    margin-left: 76px;
+    margin-top: 50px;
+    font-size: 90px;
 color: white;
 -webkit-text-stroke-color: black;
 -webkit-text-stroke-width: 1px;
@@ -63,7 +63,7 @@ color: white;
 
 
 .container1 {
-    margin-left: 659rem;
-    margin-top: -438rem;
-    width: 528rem;
+    margin-left: 659px;
+    margin-top: -438px;
+    width: 528px;
 }
