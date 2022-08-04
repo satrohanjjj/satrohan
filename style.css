@@ -1,0 +1,121 @@
+html {
+    font-size: 62.5%;
+    
+}
+body {
+
+    background-image: url("img/pexels-matheus-bertelli-799443.jpg");
+     
+}
+.icon  {
+    width: 7.5rem;
+    height: 7.4rem;
+    margin-left: 1rem;
+    
+}
+.icon img{
+    border-radius: 281px;
+            border: 3px solid white;
+}
+
+
+menu{
+width: 40.0rem;
+height: 7.0rem;
+float: center;
+
+}
+ul{
+    float: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -7.7rem;
+}
+ul li {
+    list-style: none;
+    margin-left: 8.1rem;
+    margin-top: -7.4rem;
+    font-size: 2.5rem;
+    
+}
+ul  li a{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+    
+    
+}
+
+ul li a:hover{
+    color: rgb(255, 72, 0);
+}
+
+
+.content{
+    width: 136.3rem;
+    height: auto;
+    margin-left: auto;
+    margin-top: 5.0rem;
+    font-size: 9.0rem;
+color: rgb(0, 0, 0);
+border: 3px solid white;
+background-image: url("img/sunset-hd-background-photos-12-scaled.jpg");
+
+}
+
+.content:hover{
+    color: orangered;
+}
+
+.container1 {
+    margin-left: 65.9rem;
+    margin-top: -43.8rem;
+    width: 52.8rem;
+    border: 3px solid white;
+    background-image: url("img/sunset-hd-background-photos-12-scaled.jpg");
+}
+
+.container2 img{
+
+    border-radius: 281px;
+    border: 3px solid white;
+    width: 50.4rem;
+    height: 50.4rem;
+}
+.container2 h1 img{
+
+    border-radius: 281px;
+    border: 3px solid white;
+    width: 50.4rem;
+    height: 50.4rem;
+    margin-left: 47rem;
+}
+.container2 h2 img{
+
+    border-radius: 281px;
+    border: 3px solid white;
+    width: 50.4rem;
+    height: 50.4rem;
+    
+}
+.container2 h2 img:hover {
+    color: orangered;
+}
+@media(max-width:998px) {
+    html {
+        font-size: 55%;
+    }
+}
+@media(max-width:768px) {
+    html {
+        font-size: 45%;
+    }
+}
+
+.header {
+    background-color: antiquewhite;
+    height: 7.5rem;
+    width: 136.3rem;
+}
